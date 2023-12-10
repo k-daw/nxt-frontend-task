@@ -1,0 +1,122 @@
+[
+    {
+        "id": 246,
+        "title": "Session Title*",
+        "cover_image": "http://res.cloudinary.com/dzzylglrl/image/upload/v1697635780/p4lwgmvqn5nqwn39qmxp.png",
+        "date": "1111-11-11",
+        "from": "11:11",
+        "till": "11:11",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 186,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 189,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 190,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 193,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 192,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 191,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    },
+    {
+        "id": 185,
+        "title": "First session",
+        "cover_image": "",
+        "date": "2023-06-21",
+        "from": "15:00",
+        "till": "17:00",
+        "venue": {
+            "id": 55,
+            "name": "First venue",
+            "capacity": 0,
+            "image": "",
+            "venue_type": null
+        }
+    }
+]
