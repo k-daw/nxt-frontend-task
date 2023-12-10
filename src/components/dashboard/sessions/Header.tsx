@@ -1,3 +1,4 @@
+import Link from "next/link";
 import * as React from "react";
 
 function Header() {
@@ -23,12 +24,14 @@ function Header() {
                         id="IconDashboardadd"
                         className="w-5"
                     />
-                    <div
-                        id="Text1"
-                        className="text-sm font-sans font-bold leading-[20px] text-[#252525]"
-                    >
-                        New Session
-                    </div>
+                    <Link href="/dashboard/sessions/new">
+                        <div
+                            id="Text1"
+                            className="text-sm font-sans font-bold leading-[20px] text-[#252525]"
+                        >
+                            New Session
+                        </div>
+                    </Link>
                 </div>
             </div>
         </div>
