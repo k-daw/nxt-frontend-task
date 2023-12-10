@@ -6,7 +6,7 @@ const getImgSrcFromId = (id: number) => {
     return data.filter((e) => e.id == id)[0].cover_image;
 };
 
-const renderHeader = (params) => {
+const renderHeader = (params: any) => {
     const { headerName } = params.colDef;
     const sortImage =
         headerName !== "" ? (
