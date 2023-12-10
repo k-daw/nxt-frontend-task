@@ -188,7 +188,7 @@ const columns: GridColDef[] = [
     },
 ];
 
-export default function DataTable() {
+function Table() {
     return (
         <div
             style={{
@@ -229,3 +229,5 @@ export default function DataTable() {
         </div>
     );
 }
+
+export default Table;
